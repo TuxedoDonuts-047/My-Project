@@ -1,0 +1,48 @@
+/* note the same styling elements as previously in the html file */
+	body {
+		border: 3px solid red;
+		background-image: linear-gradient(to right, yellow, green);
+		color: purple;
+		font-family:Sans Serif;
+		width: 60%;
+		margin-left: auto;
+		margin-right: auto;
+		
+		}
+	
+	h1, h5 {
+		color: blue;
+		text-align: center;
+		}
+	
+	h2 {
+		color: #bf1f34;
+		font: italic;
+		}
+	
+	li {
+		color: #3751b8;
+		font: italic;
+		}
+	
+	.wingdings {
+		font-family:wingdings;
+		color: green;
+				}
+				
+	div{
+		border: 3px solid red;
+	}	
+
+	#div1{
+		text-align: center;
+		
+	}	
+	
+	footer{
+		color: blue;
+		text-align: center
+	}
+		
+
+	
